@@ -52,7 +52,7 @@
     "npm-run-all2": "^6.1.2",
     "prettier": "^3.2.5",
     "prompts": "^2.4.2",
-    "vitest": "^1.6.0",
+    "vitest": "^3.2.6",
     "zx": "^8.1.0"
   },
   "lint-staged": {
